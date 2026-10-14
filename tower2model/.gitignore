@@ -1,0 +1,9 @@
+vendor/
+inputs/
+outputs/
+__pycache__/
+*.zip
+config.yaml
+build_obf/
+outputs_test/
+runtime/

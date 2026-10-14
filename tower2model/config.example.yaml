@@ -1,0 +1,15 @@
+# LLM (OpenAI 兼容): 配置后启用 OCR 行清洗 + 审查报告润色;
+# 非内置塔型的通用解析建模也用它读图(VLM, 需模型支持图片输入); 留空=纯规则模式
+# 若 llm_model 不支持图片输入, 可配 llm_vision_model 指定读图用的视觉模型(可选)
+llm_api_base:
+llm_api_key:
+llm_model:
+llm_vision_model:
+
+# 连接净隙 mm
+gap_mm: 3.0
+# OCR 分辨率(300 更准, 约3倍耗时)
+ocr_dpi: 200
+ocr_tile: 2400
+# OpenSCAD 路径(留空=自动找 vendor/openscad/openscad.exe)
+openscad: 

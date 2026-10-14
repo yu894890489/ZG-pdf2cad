@@ -1,0 +1,30 @@
+# ===== 生成数据 / 任务输出 =====
+webapp/jobs/
+pdf2Cad/图纸/dxf和dwg/
+pdf2Cad/demo/dxf_converted/
+pdf2Cad/demo/catalog_thumbs/
+pdf2Cad/demo/titles/
+pdf2Cad/demo/variants/
+pdf2Cad/demo/leaf_results/
+
+# ===== 内置运行时与第三方程序 =====
+tower2model/runtime/
+tower2model/vendor/
+
+# ===== 临时 / 缓存 / 会话产物 =====
+tower2model/tmp/
+tower2model/.pytest_cache/
+tower2model/build_obf/
+pdf2Cad/.superpowers/
+pdf2Cad/.playwright-mcp/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+node_modules/
+
+# ===== IDE / 系统 =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

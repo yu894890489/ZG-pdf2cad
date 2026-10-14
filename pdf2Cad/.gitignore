@@ -1,0 +1,9 @@
+
+# 建模大体积中间产物
+demo/dxf_converted/
+demo/titles/
+demo/catalog_thumbs/
+demo/data*.json
+demo/__pycache__/
+.superpowers/
+图纸/dxf和dwg/

@@ -1,0 +1,3049 @@
+[
+ {
+  "num": 1,
+  "file": "37-SA36901S-T0121-001.dxf",
+  "size_mb": 71.6,
+  "entity_types": {
+   "LWPOLYLINE": 105308,
+   "HATCH": 45569,
+   "LINE": 6088,
+   "SOLID": 403,
+   "CIRCLE": 262
+  },
+  "total_entities": 157630,
+  "clean_geo": 111658,
+  "hatch": 45569,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 157131,
+   "PDF_实体填充": 499
+  },
+  "coord_range": "1,2 to 841,1340",
+  "category": "总图-正视图"
+ },
+ {
+  "num": 2,
+  "file": "37-SA36901S-T0121-002.dxf",
+  "size_mb": 20.6,
+  "entity_types": {
+   "LWPOLYLINE": 25847,
+   "HATCH": 10154,
+   "LINE": 4181,
+   "CIRCLE": 277,
+   "SOLID": 110,
+   "SPLINE": 27
+  },
+  "total_entities": 40596,
+  "clean_geo": 30305,
+  "hatch": 10154,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 39592,
+   "PDF_实体填充": 1004
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "总图-下段+材料总表"
+ },
+ {
+  "num": 3,
+  "file": "37-SA36901S-T0121-003.dxf",
+  "size_mb": 23.6,
+  "entity_types": {
+   "LWPOLYLINE": 35834,
+   "LINE": 12108,
+   "HATCH": 6891,
+   "SOLID": 61,
+   "SPLINE": 4
+  },
+  "total_entities": 54898,
+  "clean_geo": 47942,
+  "hatch": 6891,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 54377,
+   "PDF_实体填充": 521
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "总图-断面+大样"
+ },
+ {
+  "num": 4,
+  "file": "37-SA36901S-T0121-004.dxf",
+  "size_mb": 22.4,
+  "entity_types": {
+   "LWPOLYLINE": 28821,
+   "HATCH": 10186,
+   "LINE": 6973,
+   "SPLINE": 1179,
+   "CIRCLE": 397,
+   "SOLID": 127,
+   "ELLIPSE": 1
+  },
+  "total_entities": 47684,
+  "clean_geo": 36191,
+  "hatch": 10186,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 47254,
+   "PDF_实体填充": 430
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "地线支架(第一层横担)"
+ },
+ {
+  "num": 5,
+  "file": "37-SA36901S-T0121-005.dxf",
+  "size_mb": 22.6,
+  "entity_types": {
+   "LWPOLYLINE": 28813,
+   "LINE": 10880,
+   "HATCH": 10394,
+   "CIRCLE": 547,
+   "SOLID": 142,
+   "SPLINE": 99,
+   "ELLIPSE": 1
+  },
+  "total_entities": 50876,
+  "clean_geo": 40240,
+  "hatch": 10394,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 50321,
+   "PDF_实体填充": 555
+  },
+  "coord_range": "2,2 to 1157,596",
+  "category": "上导线横担"
+ },
+ {
+  "num": 6,
+  "file": "37-SA36901S-T0121-006.dxf",
+  "size_mb": 28.0,
+  "entity_types": {
+   "LWPOLYLINE": 37431,
+   "LINE": 11816,
+   "HATCH": 10460,
+   "CIRCLE": 521,
+   "SPLINE": 364,
+   "SOLID": 166,
+   "ELLIPSE": 2
+  },
+  "total_entities": 60760,
+  "clean_geo": 49768,
+  "hatch": 10460,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 60190,
+   "PDF_实体填充": 570
+  },
+  "coord_range": "2,2 to 1157,596",
+  "category": "上导线横担"
+ },
+ {
+  "num": 7,
+  "file": "37-SA36901S-T0121-007.dxf",
+  "size_mb": 21.9,
+  "entity_types": {
+   "LWPOLYLINE": 28679,
+   "HATCH": 9773,
+   "LINE": 7126,
+   "CIRCLE": 254,
+   "SOLID": 130,
+   "SPLINE": 66,
+   "ELLIPSE": 1
+  },
+  "total_entities": 46029,
+  "clean_geo": 36059,
+  "hatch": 9773,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 45659,
+   "PDF_实体填充": 370
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "中导线横担"
+ },
+ {
+  "num": 8,
+  "file": "37-SA36901S-T0121-008.dxf",
+  "size_mb": 20.2,
+  "entity_types": {
+   "LWPOLYLINE": 25925,
+   "HATCH": 9946,
+   "LINE": 7563,
+   "CIRCLE": 325,
+   "SOLID": 139,
+   "SPLINE": 78,
+   "ELLIPSE": 1
+  },
+  "total_entities": 43977,
+  "clean_geo": 33813,
+  "hatch": 9946,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43573,
+   "PDF_实体填充": 404
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "中导线横担"
+ },
+ {
+  "num": 9,
+  "file": "37-SA36901S-T0121-009.dxf",
+  "size_mb": 19.2,
+  "entity_types": {
+   "LWPOLYLINE": 24907,
+   "HATCH": 9651,
+   "LINE": 5912,
+   "CIRCLE": 164,
+   "SOLID": 147,
+   "SPLINE": 139,
+   "ELLIPSE": 1
+  },
+  "total_entities": 40921,
+  "clean_geo": 30983,
+  "hatch": 9651,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 40534,
+   "PDF_实体填充": 387
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "中导线横担"
+ },
+ {
+  "num": 10,
+  "file": "37-SA36901S-T0121-010.dxf",
+  "size_mb": 21.8,
+  "entity_types": {
+   "LWPOLYLINE": 28554,
+   "HATCH": 9775,
+   "LINE": 7097,
+   "CIRCLE": 252,
+   "SOLID": 130,
+   "SPLINE": 61,
+   "ELLIPSE": 1
+  },
+  "total_entities": 45870,
+  "clean_geo": 35903,
+  "hatch": 9775,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 45499,
+   "PDF_实体填充": 371
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "下导线横担"
+ },
+ {
+  "num": 11,
+  "file": "37-SA36901S-T0121-011.dxf",
+  "size_mb": 20.1,
+  "entity_types": {
+   "LWPOLYLINE": 25848,
+   "HATCH": 9959,
+   "LINE": 7580,
+   "CIRCLE": 324,
+   "SOLID": 136,
+   "SPLINE": 64,
+   "ELLIPSE": 1
+  },
+  "total_entities": 43912,
+  "clean_geo": 33752,
+  "hatch": 9959,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43500,
+   "PDF_实体填充": 412
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "下导线横担"
+ },
+ {
+  "num": 12,
+  "file": "37-SA36901S-T0121-012.dxf",
+  "size_mb": 19.0,
+  "entity_types": {
+   "LWPOLYLINE": 24627,
+   "HATCH": 9646,
+   "LINE": 5769,
+   "CIRCLE": 156,
+   "SOLID": 146,
+   "SPLINE": 125
+  },
+  "total_entities": 40469,
+  "clean_geo": 30552,
+  "hatch": 9646,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 40078,
+   "PDF_实体填充": 391
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "下导线横担"
+ },
+ {
+  "num": 13,
+  "file": "37-SA36901S-T0121-013.dxf",
+  "size_mb": 20.7,
+  "entity_types": {
+   "LWPOLYLINE": 26017,
+   "LINE": 10934,
+   "HATCH": 7457,
+   "SPLINE": 782,
+   "CIRCLE": 468,
+   "SOLID": 124,
+   "ELLIPSE": 2
+  },
+  "total_entities": 45784,
+  "clean_geo": 37419,
+  "hatch": 7457,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 45456,
+   "PDF_实体填充": 328
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 14,
+  "file": "37-SA36901S-T0121-014.dxf",
+  "size_mb": 19.3,
+  "entity_types": {
+   "LWPOLYLINE": 23838,
+   "LINE": 10477,
+   "HATCH": 7840,
+   "SPLINE": 740,
+   "CIRCLE": 542,
+   "SOLID": 128
+  },
+  "total_entities": 43565,
+  "clean_geo": 34857,
+  "hatch": 7840,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43148,
+   "PDF_实体填充": 417
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 15,
+  "file": "37-SA36901S-T0121-015.dxf",
+  "size_mb": 19.5,
+  "entity_types": {
+   "LWPOLYLINE": 25841,
+   "LINE": 8761,
+   "HATCH": 7462,
+   "CIRCLE": 426,
+   "SPLINE": 206,
+   "SOLID": 127,
+   "ELLIPSE": 1
+  },
+  "total_entities": 42824,
+  "clean_geo": 35028,
+  "hatch": 7462,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42445,
+   "PDF_实体填充": 379
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 16,
+  "file": "37-SA36901S-T0121-016.dxf",
+  "size_mb": 19.9,
+  "entity_types": {
+   "LWPOLYLINE": 26138,
+   "LINE": 8733,
+   "HATCH": 7491,
+   "SPLINE": 769,
+   "CIRCLE": 350,
+   "SOLID": 122,
+   "ELLIPSE": 3
+  },
+  "total_entities": 43606,
+  "clean_geo": 35221,
+  "hatch": 7491,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43281,
+   "PDF_实体填充": 325
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 17,
+  "file": "37-SA36901S-T0121-017.dxf",
+  "size_mb": 16.6,
+  "entity_types": {
+   "LWPOLYLINE": 20449,
+   "LINE": 7785,
+   "HATCH": 7387,
+   "SPLINE": 721,
+   "CIRCLE": 381,
+   "SOLID": 108,
+   "ELLIPSE": 1
+  },
+  "total_entities": 36832,
+  "clean_geo": 28615,
+  "hatch": 7387,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 36483,
+   "PDF_实体填充": 349
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 18,
+  "file": "37-SA36901S-T0121-018.dxf",
+  "size_mb": 18.5,
+  "entity_types": {
+   "LWPOLYLINE": 23234,
+   "LINE": 9100,
+   "HATCH": 7776,
+   "SPLINE": 727,
+   "CIRCLE": 399,
+   "SOLID": 104,
+   "ELLIPSE": 1
+  },
+  "total_entities": 41341,
+  "clean_geo": 32733,
+  "hatch": 7776,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 40890,
+   "PDF_实体填充": 451
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 19,
+  "file": "37-SA36901S-T0121-019.dxf",
+  "size_mb": 19.1,
+  "entity_types": {
+   "LWPOLYLINE": 26199,
+   "HATCH": 6978,
+   "LINE": 6595,
+   "SPLINE": 161,
+   "CIRCLE": 138,
+   "SOLID": 107
+  },
+  "total_entities": 40178,
+  "clean_geo": 32932,
+  "hatch": 6978,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 39957,
+   "PDF_实体填充": 221
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 20,
+  "file": "37-SA36901S-T0121-020.dxf",
+  "size_mb": 16.9,
+  "entity_types": {
+   "LWPOLYLINE": 20429,
+   "LINE": 8470,
+   "HATCH": 7355,
+   "SPLINE": 1005,
+   "CIRCLE": 431,
+   "SOLID": 116,
+   "ELLIPSE": 1
+  },
+  "total_entities": 37807,
+  "clean_geo": 29330,
+  "hatch": 7355,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 37476,
+   "PDF_实体填充": 331
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 21,
+  "file": "37-SA36901S-T0121-021.dxf",
+  "size_mb": 18.6,
+  "entity_types": {
+   "LWPOLYLINE": 22672,
+   "LINE": 9961,
+   "HATCH": 7817,
+   "SPLINE": 809,
+   "CIRCLE": 522,
+   "SOLID": 124,
+   "ELLIPSE": 1
+  },
+  "total_entities": 41906,
+  "clean_geo": 33155,
+  "hatch": 7817,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 41447,
+   "PDF_实体填充": 459
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 22,
+  "file": "37-SA36901S-T0121-022.dxf",
+  "size_mb": 19.3,
+  "entity_types": {
+   "LWPOLYLINE": 26085,
+   "HATCH": 6983,
+   "LINE": 6977,
+   "SPLINE": 174,
+   "CIRCLE": 152,
+   "SOLID": 110
+  },
+  "total_entities": 40481,
+  "clean_geo": 33214,
+  "hatch": 6983,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 40234,
+   "PDF_实体填充": 247
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 23,
+  "file": "37-SA36901S-T0121-023.dxf",
+  "size_mb": 16.7,
+  "entity_types": {
+   "LWPOLYLINE": 20341,
+   "LINE": 8220,
+   "HATCH": 7283,
+   "SPLINE": 873,
+   "CIRCLE": 444,
+   "SOLID": 100,
+   "ELLIPSE": 5
+  },
+  "total_entities": 37266,
+  "clean_geo": 29005,
+  "hatch": 7283,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 36896,
+   "PDF_实体填充": 370
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 24,
+  "file": "37-SA36901S-T0121-024.dxf",
+  "size_mb": 19.0,
+  "entity_types": {
+   "LWPOLYLINE": 24063,
+   "LINE": 8819,
+   "HATCH": 7304,
+   "SPLINE": 885,
+   "CIRCLE": 361,
+   "SOLID": 100
+  },
+  "total_entities": 41532,
+  "clean_geo": 33243,
+  "hatch": 7304,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 41171,
+   "PDF_实体填充": 361
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 25,
+  "file": "37-SA36901S-T0121-025.dxf",
+  "size_mb": 18.9,
+  "entity_types": {
+   "LWPOLYLINE": 25329,
+   "LINE": 7562,
+   "HATCH": 7362,
+   "CIRCLE": 230,
+   "SPLINE": 173,
+   "SOLID": 113,
+   "ELLIPSE": 1
+  },
+  "total_entities": 40770,
+  "clean_geo": 33121,
+  "hatch": 7362,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 40385,
+   "PDF_实体填充": 385
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 26,
+  "file": "37-SA36901S-T0121-026.dxf",
+  "size_mb": 16.8,
+  "entity_types": {
+   "LWPOLYLINE": 20573,
+   "LINE": 9287,
+   "HATCH": 7465,
+   "CIRCLE": 489,
+   "SPLINE": 275,
+   "SOLID": 112,
+   "ELLIPSE": 1
+  },
+  "total_entities": 38202,
+  "clean_geo": 30349,
+  "hatch": 7465,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 37689,
+   "PDF_实体填充": 513
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 27,
+  "file": "37-SA36901S-T0121-027.dxf",
+  "size_mb": 16.2,
+  "entity_types": {
+   "LWPOLYLINE": 19478,
+   "LINE": 8092,
+   "HATCH": 7366,
+   "SPLINE": 982,
+   "CIRCLE": 382,
+   "SOLID": 104,
+   "ELLIPSE": 1
+  },
+  "total_entities": 36405,
+  "clean_geo": 27952,
+  "hatch": 7366,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 35950,
+   "PDF_实体填充": 455
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 28,
+  "file": "37-SA36901S-T0121-028.dxf",
+  "size_mb": 18.3,
+  "entity_types": {
+   "LWPOLYLINE": 23581,
+   "LINE": 7742,
+   "HATCH": 7114,
+   "CIRCLE": 281,
+   "SPLINE": 155,
+   "SOLID": 108,
+   "ELLIPSE": 1
+  },
+  "total_entities": 38982,
+  "clean_geo": 31604,
+  "hatch": 7114,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 38643,
+   "PDF_实体填充": 339
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 29,
+  "file": "37-SA36901S-T0121-029.dxf",
+  "size_mb": 19.1,
+  "entity_types": {
+   "LWPOLYLINE": 26045,
+   "LINE": 7738,
+   "HATCH": 7147,
+   "CIRCLE": 211,
+   "SPLINE": 167,
+   "SOLID": 117
+  },
+  "total_entities": 41425,
+  "clean_geo": 33994,
+  "hatch": 7147,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 41102,
+   "PDF_实体填充": 323
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 30,
+  "file": "37-SA36901S-T0121-030.dxf",
+  "size_mb": 21.6,
+  "entity_types": {
+   "LWPOLYLINE": 29099,
+   "LINE": 9856,
+   "HATCH": 7536,
+   "CIRCLE": 594,
+   "SPLINE": 347,
+   "SOLID": 120
+  },
+  "total_entities": 47552,
+  "clean_geo": 39549,
+  "hatch": 7536,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 47049,
+   "PDF_实体填充": 503
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 31,
+  "file": "37-SA36901S-T0121-031.dxf",
+  "size_mb": 18.6,
+  "entity_types": {
+   "LWPOLYLINE": 25197,
+   "HATCH": 7161,
+   "LINE": 6918,
+   "SPLINE": 291,
+   "CIRCLE": 288,
+   "SOLID": 108
+  },
+  "total_entities": 39963,
+  "clean_geo": 32403,
+  "hatch": 7161,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 39628,
+   "PDF_实体填充": 335
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 32,
+  "file": "37-SA36901S-T0121-032.dxf",
+  "size_mb": 18.8,
+  "entity_types": {
+   "LWPOLYLINE": 25405,
+   "HATCH": 7176,
+   "LINE": 7041,
+   "CIRCLE": 295,
+   "SPLINE": 291,
+   "SOLID": 108
+  },
+  "total_entities": 40316,
+  "clean_geo": 32741,
+  "hatch": 7176,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 39977,
+   "PDF_实体填充": 339
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 33,
+  "file": "37-SA36901S-T0121-033.dxf",
+  "size_mb": 18.2,
+  "entity_types": {
+   "LWPOLYLINE": 24706,
+   "HATCH": 7128,
+   "LINE": 6313,
+   "SPLINE": 256,
+   "CIRCLE": 223,
+   "SOLID": 100
+  },
+  "total_entities": 38726,
+  "clean_geo": 31242,
+  "hatch": 7128,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 38380,
+   "PDF_实体填充": 346
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 34,
+  "file": "37-SA36901S-T0121-034.dxf",
+  "size_mb": 19.5,
+  "entity_types": {
+   "LWPOLYLINE": 26070,
+   "LINE": 7462,
+   "HATCH": 7291,
+   "CIRCLE": 318,
+   "SPLINE": 314,
+   "SOLID": 109
+  },
+  "total_entities": 41564,
+  "clean_geo": 33850,
+  "hatch": 7291,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 41148,
+   "PDF_实体填充": 416
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 35,
+  "file": "37-SA36901S-T0121-035.dxf",
+  "size_mb": 18.4,
+  "entity_types": {
+   "LWPOLYLINE": 24846,
+   "HATCH": 7155,
+   "LINE": 6559,
+   "SPLINE": 276,
+   "CIRCLE": 240,
+   "SOLID": 100
+  },
+  "total_entities": 39176,
+  "clean_geo": 31645,
+  "hatch": 7155,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 38812,
+   "PDF_实体填充": 364
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 36,
+  "file": "37-SA36901S-T0121-036.dxf",
+  "size_mb": 19.7,
+  "entity_types": {
+   "LWPOLYLINE": 26307,
+   "LINE": 7831,
+   "HATCH": 7329,
+   "SPLINE": 345,
+   "CIRCLE": 340,
+   "SOLID": 104
+  },
+  "total_entities": 42256,
+  "clean_geo": 34478,
+  "hatch": 7329,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 41816,
+   "PDF_实体填充": 440
+  },
+  "coord_range": "2,2 to 948,596",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 37,
+  "file": "37-SA36901S-T0121-037.dxf",
+  "size_mb": 18.4,
+  "entity_types": {
+   "LWPOLYLINE": 24855,
+   "HATCH": 7144,
+   "LINE": 6493,
+   "SPLINE": 276,
+   "CIRCLE": 254,
+   "SOLID": 100
+  },
+  "total_entities": 39122,
+  "clean_geo": 31602,
+  "hatch": 7144,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 38771,
+   "PDF_实体填充": 351
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 38,
+  "file": "37-SA36901S-T0121-038.dxf",
+  "size_mb": 20.4,
+  "entity_types": {
+   "LWPOLYLINE": 27337,
+   "LINE": 8165,
+   "HATCH": 7343,
+   "CIRCLE": 401,
+   "SPLINE": 341,
+   "SOLID": 108
+  },
+  "total_entities": 43695,
+  "clean_geo": 35903,
+  "hatch": 7343,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43267,
+   "PDF_实体填充": 428
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 39,
+  "file": "37-SA36901S-T0121-039.dxf",
+  "size_mb": 18.9,
+  "entity_types": {
+   "LWPOLYLINE": 25480,
+   "HATCH": 7203,
+   "LINE": 6799,
+   "CIRCLE": 321,
+   "SPLINE": 319,
+   "SOLID": 95
+  },
+  "total_entities": 40217,
+  "clean_geo": 32600,
+  "hatch": 7203,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 39854,
+   "PDF_实体填充": 363
+  },
+  "coord_range": "2,2 to 948,596",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 40,
+  "file": "37-SA36901S-T0121-040.dxf",
+  "size_mb": 18.2,
+  "entity_types": {
+   "LWPOLYLINE": 24210,
+   "HATCH": 7187,
+   "LINE": 6871,
+   "CIRCLE": 417,
+   "SPLINE": 297,
+   "SOLID": 100
+  },
+  "total_entities": 39082,
+  "clean_geo": 31498,
+  "hatch": 7187,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 38726,
+   "PDF_实体填充": 356
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 41,
+  "file": "37-SA36901S-T0121-041.dxf",
+  "size_mb": 15.3,
+  "entity_types": {
+   "LWPOLYLINE": 19605,
+   "HATCH": 6750,
+   "LINE": 5526,
+   "CIRCLE": 153,
+   "SOLID": 92,
+   "SPLINE": 62,
+   "ELLIPSE": 4
+  },
+  "total_entities": 32192,
+  "clean_geo": 25284,
+  "hatch": 6750,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 31938,
+   "PDF_实体填充": 254
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 42,
+  "file": "37-SA36901S-T0121-042.dxf",
+  "size_mb": 19.2,
+  "entity_types": {
+   "LWPOLYLINE": 25596,
+   "LINE": 7529,
+   "HATCH": 7337,
+   "CIRCLE": 455,
+   "SPLINE": 359,
+   "SOLID": 95
+  },
+  "total_entities": 41371,
+  "clean_geo": 33580,
+  "hatch": 7337,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 40968,
+   "PDF_实体填充": 403
+  },
+  "coord_range": "2,2 to 948,596",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 43,
+  "file": "37-SA36901S-T0121-043.dxf",
+  "size_mb": 14.9,
+  "entity_types": {
+   "LWPOLYLINE": 19057,
+   "HATCH": 6703,
+   "LINE": 5488,
+   "CIRCLE": 147,
+   "SOLID": 93,
+   "SPLINE": 42,
+   "ELLIPSE": 2
+  },
+  "total_entities": 31532,
+  "clean_geo": 24692,
+  "hatch": 6703,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 31294,
+   "PDF_实体填充": 238
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 44,
+  "file": "37-SA36901S-T0121-044.dxf",
+  "size_mb": 17.6,
+  "entity_types": {
+   "LWPOLYLINE": 22813,
+   "HATCH": 7221,
+   "LINE": 7023,
+   "CIRCLE": 337,
+   "SPLINE": 297,
+   "SOLID": 95
+  },
+  "total_entities": 37786,
+  "clean_geo": 30173,
+  "hatch": 7221,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 37425,
+   "PDF_实体填充": 361
+  },
+  "coord_range": "2,2 to 948,596",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 45,
+  "file": "37-SA36901S-T0121-045.dxf",
+  "size_mb": 16.5,
+  "entity_types": {
+   "LWPOLYLINE": 21732,
+   "HATCH": 6856,
+   "LINE": 6041,
+   "CIRCLE": 148,
+   "SPLINE": 104,
+   "SOLID": 93
+  },
+  "total_entities": 34974,
+  "clean_geo": 27921,
+  "hatch": 6856,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 34668,
+   "PDF_实体填充": 306
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 46,
+  "file": "37-SA36901S-T0121-046.dxf",
+  "size_mb": 14.4,
+  "entity_types": {
+   "LWPOLYLINE": 18042,
+   "HATCH": 6909,
+   "LINE": 5513,
+   "CIRCLE": 213,
+   "SOLID": 88,
+   "SPLINE": 54
+  },
+  "total_entities": 30819,
+  "clean_geo": 23768,
+  "hatch": 6909,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 30556,
+   "PDF_实体填充": 263
+  },
+  "coord_range": "2,2 to 948,596",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 47,
+  "file": "37-SA36901S-T0121-047.dxf",
+  "size_mb": 14.0,
+  "entity_types": {
+   "LWPOLYLINE": 17547,
+   "HATCH": 6755,
+   "LINE": 4845,
+   "SOLID": 92,
+   "CIRCLE": 81,
+   "SPLINE": 21,
+   "ELLIPSE": 1
+  },
+  "total_entities": 29342,
+  "clean_geo": 22473,
+  "hatch": 6755,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 29058,
+   "PDF_实体填充": 284
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 48,
+  "file": "37-SA36901S-T0121-048.dxf",
+  "size_mb": 17.5,
+  "entity_types": {
+   "LWPOLYLINE": 22867,
+   "HATCH": 7184,
+   "LINE": 6694,
+   "CIRCLE": 364,
+   "SPLINE": 278,
+   "SOLID": 100
+  },
+  "total_entities": 37487,
+  "clean_geo": 29925,
+  "hatch": 7184,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 37143,
+   "PDF_实体填充": 344
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 49,
+  "file": "37-SA36901S-T0121-049.dxf",
+  "size_mb": 16.7,
+  "entity_types": {
+   "LWPOLYLINE": 22066,
+   "HATCH": 6833,
+   "LINE": 5854,
+   "CIRCLE": 162,
+   "SPLINE": 104,
+   "SOLID": 93,
+   "ELLIPSE": 3
+  },
+  "total_entities": 35115,
+  "clean_geo": 28082,
+  "hatch": 6833,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 34830,
+   "PDF_实体填充": 285
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 50,
+  "file": "37-SA36901S-T0121-050.dxf",
+  "size_mb": 16.5,
+  "entity_types": {
+   "LWPOLYLINE": 20790,
+   "HATCH": 7098,
+   "LINE": 6981,
+   "CIRCLE": 351,
+   "SOLID": 93,
+   "SPLINE": 87,
+   "ELLIPSE": 3
+  },
+  "total_entities": 35403,
+  "clean_geo": 28122,
+  "hatch": 7098,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 35047,
+   "PDF_实体填充": 356
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-上段"
+ },
+ {
+  "num": 51,
+  "file": "37-SA36901S-T0121-051.dxf",
+  "size_mb": 20.7,
+  "entity_types": {
+   "LWPOLYLINE": 27716,
+   "HATCH": 9862,
+   "LINE": 6354,
+   "SPLINE": 332,
+   "CIRCLE": 277,
+   "SOLID": 121
+  },
+  "total_entities": 44662,
+  "clean_geo": 34347,
+  "hatch": 9862,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 44254,
+   "PDF_实体填充": 408
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 52,
+  "file": "37-SA36901S-T0121-052.dxf",
+  "size_mb": 13.8,
+  "entity_types": {
+   "LWPOLYLINE": 17344,
+   "HATCH": 7420,
+   "LINE": 4261,
+   "SOLID": 84,
+   "CIRCLE": 73,
+   "SPLINE": 36
+  },
+  "total_entities": 29218,
+  "clean_geo": 21678,
+  "hatch": 7420,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 28965,
+   "PDF_实体填充": 253
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 53,
+  "file": "37-SA36901S-T0121-053.dxf",
+  "size_mb": 18.0,
+  "entity_types": {
+   "LWPOLYLINE": 24849,
+   "HATCH": 6880,
+   "LINE": 5744,
+   "SPLINE": 199,
+   "CIRCLE": 105,
+   "SOLID": 98
+  },
+  "total_entities": 37875,
+  "clean_geo": 30698,
+  "hatch": 6880,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 37613,
+   "PDF_实体填充": 262
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 54,
+  "file": "37-SA36901S-T0121-054.dxf",
+  "size_mb": 20.9,
+  "entity_types": {
+   "LWPOLYLINE": 27756,
+   "HATCH": 9868,
+   "LINE": 6424,
+   "SPLINE": 356,
+   "CIRCLE": 283,
+   "SOLID": 121
+  },
+  "total_entities": 44808,
+  "clean_geo": 34463,
+  "hatch": 9868,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 44394,
+   "PDF_实体填充": 414
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 55,
+  "file": "37-SA36901S-T0121-055.dxf",
+  "size_mb": 13.9,
+  "entity_types": {
+   "LWPOLYLINE": 17450,
+   "HATCH": 7469,
+   "LINE": 4315,
+   "SOLID": 84,
+   "CIRCLE": 73,
+   "SPLINE": 36
+  },
+  "total_entities": 29427,
+  "clean_geo": 21838,
+  "hatch": 7469,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 29170,
+   "PDF_实体填充": 257
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 56,
+  "file": "37-SA36901S-T0121-056.dxf",
+  "size_mb": 18.1,
+  "entity_types": {
+   "LWPOLYLINE": 24914,
+   "HATCH": 6880,
+   "LINE": 5765,
+   "SPLINE": 199,
+   "CIRCLE": 105,
+   "SOLID": 98
+  },
+  "total_entities": 37961,
+  "clean_geo": 30784,
+  "hatch": 6880,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 37699,
+   "PDF_实体填充": 262
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 57,
+  "file": "37-SA36901S-T0121-057.dxf",
+  "size_mb": 21.0,
+  "entity_types": {
+   "LWPOLYLINE": 27883,
+   "HATCH": 9881,
+   "LINE": 6561,
+   "SPLINE": 356,
+   "CIRCLE": 296,
+   "SOLID": 121
+  },
+  "total_entities": 45098,
+  "clean_geo": 34740,
+  "hatch": 9881,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 44679,
+   "PDF_实体填充": 419
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 58,
+  "file": "37-SA36901S-T0121-058.dxf",
+  "size_mb": 14.0,
+  "entity_types": {
+   "LWPOLYLINE": 17617,
+   "HATCH": 7525,
+   "LINE": 4371,
+   "SOLID": 84,
+   "CIRCLE": 73,
+   "SPLINE": 36
+  },
+  "total_entities": 29706,
+  "clean_geo": 22061,
+  "hatch": 7525,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 29445,
+   "PDF_实体填充": 261
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 59,
+  "file": "37-SA36901S-T0121-059.dxf",
+  "size_mb": 18.1,
+  "entity_types": {
+   "LWPOLYLINE": 24865,
+   "HATCH": 6880,
+   "LINE": 5750,
+   "SPLINE": 199,
+   "CIRCLE": 105,
+   "SOLID": 98
+  },
+  "total_entities": 37897,
+  "clean_geo": 30720,
+  "hatch": 6880,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 37635,
+   "PDF_实体填充": 262
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 60,
+  "file": "37-SA36901S-T0121-060.dxf",
+  "size_mb": 20.2,
+  "entity_types": {
+   "LWPOLYLINE": 26159,
+   "HATCH": 9831,
+   "LINE": 6574,
+   "SPLINE": 370,
+   "CIRCLE": 299,
+   "SOLID": 121
+  },
+  "total_entities": 43354,
+  "clean_geo": 33032,
+  "hatch": 9831,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42946,
+   "PDF_实体填充": 408
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 61,
+  "file": "37-SA36901S-T0121-061.dxf",
+  "size_mb": 14.1,
+  "entity_types": {
+   "LWPOLYLINE": 17735,
+   "HATCH": 7576,
+   "LINE": 4450,
+   "SOLID": 84,
+   "CIRCLE": 81,
+   "SPLINE": 36
+  },
+  "total_entities": 29962,
+  "clean_geo": 22266,
+  "hatch": 7576,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 29695,
+   "PDF_实体填充": 267
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 62,
+  "file": "37-SA36901S-T0121-062.dxf",
+  "size_mb": 19.0,
+  "entity_types": {
+   "LWPOLYLINE": 26668,
+   "HATCH": 6950,
+   "LINE": 5845,
+   "SPLINE": 209,
+   "CIRCLE": 108,
+   "SOLID": 98
+  },
+  "total_entities": 39878,
+  "clean_geo": 32621,
+  "hatch": 6950,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 39600,
+   "PDF_实体填充": 278
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 63,
+  "file": "37-SA36901S-T0121-063.dxf",
+  "size_mb": 20.3,
+  "entity_types": {
+   "LWPOLYLINE": 26451,
+   "HATCH": 9857,
+   "LINE": 6727,
+   "SPLINE": 418,
+   "CIRCLE": 333,
+   "SOLID": 121
+  },
+  "total_entities": 43907,
+  "clean_geo": 33511,
+  "hatch": 9857,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43510,
+   "PDF_实体填充": 397
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 64,
+  "file": "37-SA36901S-T0121-064.dxf",
+  "size_mb": 14.1,
+  "entity_types": {
+   "LWPOLYLINE": 17778,
+   "HATCH": 7601,
+   "LINE": 4503,
+   "SOLID": 84,
+   "CIRCLE": 81,
+   "SPLINE": 36
+  },
+  "total_entities": 30083,
+  "clean_geo": 22362,
+  "hatch": 7601,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 29810,
+   "PDF_实体填充": 273
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 65,
+  "file": "37-SA36901S-T0121-065.dxf",
+  "size_mb": 19.5,
+  "entity_types": {
+   "LWPOLYLINE": 27388,
+   "HATCH": 6981,
+   "LINE": 6063,
+   "SPLINE": 229,
+   "CIRCLE": 116,
+   "SOLID": 98
+  },
+  "total_entities": 40875,
+  "clean_geo": 33567,
+  "hatch": 6981,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 40585,
+   "PDF_实体填充": 290
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 66,
+  "file": "37-SA36901S-T0121-066.dxf",
+  "size_mb": 36.8,
+  "entity_types": {
+   "LWPOLYLINE": 47691,
+   "HATCH": 19107,
+   "LINE": 10325,
+   "SPLINE": 493,
+   "CIRCLE": 366,
+   "SOLID": 240
+  },
+  "total_entities": 78222,
+  "clean_geo": 58382,
+  "hatch": 19107,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 77625,
+   "PDF_实体填充": 597
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-复杂节点"
+ },
+ {
+  "num": 67,
+  "file": "37-SA36901S-T0121-067.dxf",
+  "size_mb": 27.6,
+  "entity_types": {
+   "LWPOLYLINE": 34721,
+   "HATCH": 14724,
+   "LINE": 8563,
+   "SPLINE": 336,
+   "SOLID": 176,
+   "CIRCLE": 137
+  },
+  "total_entities": 58657,
+  "clean_geo": 43421,
+  "hatch": 14724,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 58206,
+   "PDF_实体填充": 451
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 68,
+  "file": "37-SA36901S-T0121-068.dxf",
+  "size_mb": 20.5,
+  "entity_types": {
+   "LWPOLYLINE": 28843,
+   "HATCH": 7006,
+   "LINE": 6400,
+   "SPLINE": 242,
+   "CIRCLE": 136,
+   "SOLID": 98
+  },
+  "total_entities": 42725,
+  "clean_geo": 35379,
+  "hatch": 7006,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42432,
+   "PDF_实体填充": 293
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 69,
+  "file": "37-SA36901S-T0121-069.dxf",
+  "size_mb": 21.0,
+  "entity_types": {
+   "LWPOLYLINE": 27002,
+   "HATCH": 9954,
+   "LINE": 7511,
+   "SPLINE": 489,
+   "CIRCLE": 382,
+   "SOLID": 120
+  },
+  "total_entities": 45458,
+  "clean_geo": 34895,
+  "hatch": 9954,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 45035,
+   "PDF_实体填充": 423
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 70,
+  "file": "37-SA36901S-T0121-070.dxf",
+  "size_mb": 16.0,
+  "entity_types": {
+   "LWPOLYLINE": 19850,
+   "HATCH": 8307,
+   "LINE": 5698,
+   "SPLINE": 443,
+   "CIRCLE": 156,
+   "SOLID": 92
+  },
+  "total_entities": 34546,
+  "clean_geo": 25704,
+  "hatch": 8307,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 34229,
+   "PDF_实体填充": 317
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 71,
+  "file": "37-SA36901S-T0121-071.dxf",
+  "size_mb": 20.7,
+  "entity_types": {
+   "LWPOLYLINE": 29221,
+   "HATCH": 7034,
+   "LINE": 6496,
+   "SPLINE": 256,
+   "CIRCLE": 143,
+   "SOLID": 98
+  },
+  "total_entities": 43248,
+  "clean_geo": 35860,
+  "hatch": 7034,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42954,
+   "PDF_实体填充": 294
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 72,
+  "file": "37-SA36901S-T0121-072.dxf",
+  "size_mb": 21.0,
+  "entity_types": {
+   "LWPOLYLINE": 27033,
+   "HATCH": 9964,
+   "LINE": 7570,
+   "SPLINE": 505,
+   "CIRCLE": 388,
+   "SOLID": 120
+  },
+  "total_entities": 45580,
+  "clean_geo": 34991,
+  "hatch": 9964,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 45152,
+   "PDF_实体填充": 428
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 73,
+  "file": "37-SA36901S-T0121-073.dxf",
+  "size_mb": 16.0,
+  "entity_types": {
+   "LWPOLYLINE": 19891,
+   "HATCH": 8323,
+   "LINE": 5763,
+   "SPLINE": 443,
+   "CIRCLE": 156,
+   "SOLID": 92
+  },
+  "total_entities": 34668,
+  "clean_geo": 25810,
+  "hatch": 8323,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 34349,
+   "PDF_实体填充": 319
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 74,
+  "file": "37-SA36901S-T0121-074.dxf",
+  "size_mb": 20.4,
+  "entity_types": {
+   "LWPOLYLINE": 28790,
+   "HATCH": 7015,
+   "LINE": 6408,
+   "SPLINE": 241,
+   "CIRCLE": 136,
+   "SOLID": 98
+  },
+  "total_entities": 42688,
+  "clean_geo": 35334,
+  "hatch": 7015,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42395,
+   "PDF_实体填充": 293
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 75,
+  "file": "37-SA36901S-T0121-075.dxf",
+  "size_mb": 20.1,
+  "entity_types": {
+   "LWPOLYLINE": 26078,
+   "HATCH": 9806,
+   "LINE": 6535,
+   "SPLINE": 349,
+   "CIRCLE": 316,
+   "SOLID": 121
+  },
+  "total_entities": 43205,
+  "clean_geo": 32929,
+  "hatch": 9806,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42818,
+   "PDF_实体填充": 387
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 76,
+  "file": "37-SA36901S-T0121-076.dxf",
+  "size_mb": 13.9,
+  "entity_types": {
+   "LWPOLYLINE": 17542,
+   "HATCH": 7511,
+   "LINE": 4365,
+   "SOLID": 84,
+   "CIRCLE": 79,
+   "SPLINE": 36
+  },
+  "total_entities": 29617,
+  "clean_geo": 21986,
+  "hatch": 7511,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 29355,
+   "PDF_实体填充": 262
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 77,
+  "file": "37-SA36901S-T0121-077.dxf",
+  "size_mb": 19.4,
+  "entity_types": {
+   "LWPOLYLINE": 27254,
+   "HATCH": 6981,
+   "LINE": 6038,
+   "SPLINE": 229,
+   "CIRCLE": 116,
+   "SOLID": 98
+  },
+  "total_entities": 40716,
+  "clean_geo": 33408,
+  "hatch": 6981,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 40426,
+   "PDF_实体填充": 290
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 78,
+  "file": "37-SA36901S-T0121-078.dxf",
+  "size_mb": 20.3,
+  "entity_types": {
+   "LWPOLYLINE": 26151,
+   "HATCH": 9822,
+   "LINE": 6684,
+   "SPLINE": 365,
+   "CIRCLE": 323,
+   "SOLID": 121
+  },
+  "total_entities": 43466,
+  "clean_geo": 33158,
+  "hatch": 9822,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43073,
+   "PDF_实体填充": 393
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 79,
+  "file": "37-SA36901S-T0121-079.dxf",
+  "size_mb": 14.0,
+  "entity_types": {
+   "LWPOLYLINE": 17634,
+   "HATCH": 7543,
+   "LINE": 4437,
+   "SOLID": 84,
+   "CIRCLE": 79,
+   "SPLINE": 36
+  },
+  "total_entities": 29813,
+  "clean_geo": 22150,
+  "hatch": 7543,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 29545,
+   "PDF_实体填充": 268
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 80,
+  "file": "37-SA36901S-T0121-080.dxf",
+  "size_mb": 19.5,
+  "entity_types": {
+   "LWPOLYLINE": 27305,
+   "HATCH": 6981,
+   "LINE": 6048,
+   "SPLINE": 229,
+   "CIRCLE": 116,
+   "SOLID": 98
+  },
+  "total_entities": 40777,
+  "clean_geo": 33469,
+  "hatch": 6981,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 40487,
+   "PDF_实体填充": 290
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 81,
+  "file": "37-SA36901S-T0121-081.dxf",
+  "size_mb": 20.3,
+  "entity_types": {
+   "LWPOLYLINE": 26266,
+   "HATCH": 9833,
+   "LINE": 6776,
+   "SPLINE": 392,
+   "CIRCLE": 328,
+   "SOLID": 121
+  },
+  "total_entities": 43716,
+  "clean_geo": 33370,
+  "hatch": 9833,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43318,
+   "PDF_实体填充": 398
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 82,
+  "file": "37-SA36901S-T0121-082.dxf",
+  "size_mb": 14.1,
+  "entity_types": {
+   "LWPOLYLINE": 17710,
+   "HATCH": 7571,
+   "LINE": 4482,
+   "CIRCLE": 87,
+   "SOLID": 84,
+   "SPLINE": 36
+  },
+  "total_entities": 29970,
+  "clean_geo": 22279,
+  "hatch": 7571,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 29698,
+   "PDF_实体填充": 272
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 83,
+  "file": "37-SA36901S-T0121-083.dxf",
+  "size_mb": 19.5,
+  "entity_types": {
+   "LWPOLYLINE": 27449,
+   "HATCH": 6981,
+   "LINE": 6087,
+   "SPLINE": 229,
+   "CIRCLE": 117,
+   "SOLID": 98
+  },
+  "total_entities": 40961,
+  "clean_geo": 33653,
+  "hatch": 6981,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 40671,
+   "PDF_实体填充": 290
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 84,
+  "file": "37-SA36901S-T0121-084.dxf",
+  "size_mb": 36.9,
+  "entity_types": {
+   "LWPOLYLINE": 47695,
+   "HATCH": 19106,
+   "LINE": 10405,
+   "SPLINE": 483,
+   "CIRCLE": 384,
+   "SOLID": 240
+  },
+  "total_entities": 78313,
+  "clean_geo": 58484,
+  "hatch": 19106,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 77717,
+   "PDF_实体填充": 596
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-复杂节点"
+ },
+ {
+  "num": 85,
+  "file": "37-SA36901S-T0121-085.dxf",
+  "size_mb": 27.6,
+  "entity_types": {
+   "LWPOLYLINE": 34565,
+   "HATCH": 14686,
+   "LINE": 8572,
+   "SPLINE": 468,
+   "SOLID": 176,
+   "CIRCLE": 157
+  },
+  "total_entities": 58624,
+  "clean_geo": 43294,
+  "hatch": 14686,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 58170,
+   "PDF_实体填充": 454
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 86,
+  "file": "37-SA36901S-T0121-086.dxf",
+  "size_mb": 20.6,
+  "entity_types": {
+   "LWPOLYLINE": 28946,
+   "HATCH": 7001,
+   "LINE": 6413,
+   "SPLINE": 237,
+   "CIRCLE": 137,
+   "SOLID": 98
+  },
+  "total_entities": 42832,
+  "clean_geo": 35496,
+  "hatch": 7001,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42544,
+   "PDF_实体填充": 288
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 87,
+  "file": "37-SA36901S-T0121-087.dxf",
+  "size_mb": 21.0,
+  "entity_types": {
+   "LWPOLYLINE": 26978,
+   "HATCH": 9939,
+   "LINE": 7516,
+   "SPLINE": 431,
+   "CIRCLE": 387,
+   "SOLID": 120
+  },
+  "total_entities": 45371,
+  "clean_geo": 34881,
+  "hatch": 9939,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 44949,
+   "PDF_实体填充": 422
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 88,
+  "file": "37-SA36901S-T0121-088.dxf",
+  "size_mb": 15.9,
+  "entity_types": {
+   "LWPOLYLINE": 19790,
+   "HATCH": 8256,
+   "LINE": 5690,
+   "SPLINE": 443,
+   "CIRCLE": 156,
+   "SOLID": 92
+  },
+  "total_entities": 34427,
+  "clean_geo": 25636,
+  "hatch": 8256,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 34112,
+   "PDF_实体填充": 315
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 89,
+  "file": "37-SA36901S-T0121-089.dxf",
+  "size_mb": 20.8,
+  "entity_types": {
+   "LWPOLYLINE": 29287,
+   "HATCH": 7034,
+   "LINE": 6510,
+   "SPLINE": 256,
+   "CIRCLE": 143,
+   "SOLID": 98
+  },
+  "total_entities": 43328,
+  "clean_geo": 35940,
+  "hatch": 7034,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43034,
+   "PDF_实体填充": 294
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 90,
+  "file": "37-SA36901S-T0121-090.dxf",
+  "size_mb": 21.0,
+  "entity_types": {
+   "LWPOLYLINE": 27090,
+   "HATCH": 9964,
+   "LINE": 7686,
+   "SPLINE": 479,
+   "CIRCLE": 405,
+   "SOLID": 120
+  },
+  "total_entities": 45744,
+  "clean_geo": 35181,
+  "hatch": 9964,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 45316,
+   "PDF_实体填充": 428
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 91,
+  "file": "37-SA36901S-T0121-091.dxf",
+  "size_mb": 15.9,
+  "entity_types": {
+   "LWPOLYLINE": 19946,
+   "HATCH": 8330,
+   "LINE": 5701,
+   "SPLINE": 315,
+   "CIRCLE": 144,
+   "SOLID": 92
+  },
+  "total_entities": 34528,
+  "clean_geo": 25791,
+  "hatch": 8330,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 34205,
+   "PDF_实体填充": 323
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 92,
+  "file": "37-SA36901S-T0121-092.dxf",
+  "size_mb": 20.5,
+  "entity_types": {
+   "LWPOLYLINE": 28890,
+   "HATCH": 7015,
+   "LINE": 6429,
+   "SPLINE": 241,
+   "CIRCLE": 136,
+   "SOLID": 98
+  },
+  "total_entities": 42809,
+  "clean_geo": 35455,
+  "hatch": 7015,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42516,
+   "PDF_实体填充": 293
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 93,
+  "file": "37-SA36901S-T0121-093.dxf",
+  "size_mb": 20.9,
+  "entity_types": {
+   "LWPOLYLINE": 27094,
+   "HATCH": 9974,
+   "LINE": 7777,
+   "SPLINE": 519,
+   "CIRCLE": 411,
+   "SOLID": 120
+  },
+  "total_entities": 45895,
+  "clean_geo": 35282,
+  "hatch": 9974,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 45463,
+   "PDF_实体填充": 432
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 94,
+  "file": "37-SA36901S-T0121-094.dxf",
+  "size_mb": 16.0,
+  "entity_types": {
+   "LWPOLYLINE": 19984,
+   "HATCH": 8367,
+   "LINE": 5741,
+   "SPLINE": 315,
+   "CIRCLE": 144,
+   "SOLID": 92
+  },
+  "total_entities": 34643,
+  "clean_geo": 25869,
+  "hatch": 8367,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 34318,
+   "PDF_实体填充": 325
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 95,
+  "file": "37-SA36901S-T0121-095.dxf",
+  "size_mb": 20.3,
+  "entity_types": {
+   "LWPOLYLINE": 28791,
+   "HATCH": 7015,
+   "LINE": 6404,
+   "SPLINE": 241,
+   "CIRCLE": 136,
+   "SOLID": 98
+  },
+  "total_entities": 42685,
+  "clean_geo": 35331,
+  "hatch": 7015,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42392,
+   "PDF_实体填充": 293
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 96,
+  "file": "37-SA36901S-T0121-096.dxf",
+  "size_mb": 21.2,
+  "entity_types": {
+   "LWPOLYLINE": 27427,
+   "HATCH": 9996,
+   "LINE": 7952,
+   "SPLINE": 529,
+   "CIRCLE": 435,
+   "SOLID": 123
+  },
+  "total_entities": 46462,
+  "clean_geo": 35814,
+  "hatch": 9996,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 46022,
+   "PDF_实体填充": 440
+  },
+  "coord_range": "2,2 to 596,1053",
+  "category": "身部段-特殊格式"
+ },
+ {
+  "num": 97,
+  "file": "37-SA36901S-T0121-097.dxf",
+  "size_mb": 16.1,
+  "entity_types": {
+   "LWPOLYLINE": 20122,
+   "HATCH": 8423,
+   "LINE": 5805,
+   "SPLINE": 317,
+   "CIRCLE": 153,
+   "SOLID": 94
+  },
+  "total_entities": 34914,
+  "clean_geo": 26080,
+  "hatch": 8423,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 34577,
+   "PDF_实体填充": 337
+  },
+  "coord_range": "2,2 to 596,1053",
+  "category": "身部段-特殊格式"
+ },
+ {
+  "num": 98,
+  "file": "37-SA36901S-T0121-098.dxf",
+  "size_mb": 20.5,
+  "entity_types": {
+   "LWPOLYLINE": 28969,
+   "HATCH": 7015,
+   "LINE": 6446,
+   "SPLINE": 241,
+   "CIRCLE": 136,
+   "SOLID": 98
+  },
+  "total_entities": 42905,
+  "clean_geo": 35551,
+  "hatch": 7015,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42612,
+   "PDF_实体填充": 293
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 99,
+  "file": "37-SA36901S-T0121-099.dxf",
+  "size_mb": 25.1,
+  "entity_types": {
+   "LWPOLYLINE": 34581,
+   "HATCH": 10082,
+   "LINE": 8278,
+   "SPLINE": 387,
+   "CIRCLE": 375,
+   "SOLID": 138
+  },
+  "total_entities": 53841,
+  "clean_geo": 43234,
+  "hatch": 10082,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 53392,
+   "PDF_实体填充": 449
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 100,
+  "file": "37-SA36901S-T0121-100.dxf",
+  "size_mb": 15.5,
+  "entity_types": {
+   "LWPOLYLINE": 20360,
+   "HATCH": 7545,
+   "LINE": 4525,
+   "CIRCLE": 97,
+   "SOLID": 92,
+   "SPLINE": 82
+  },
+  "total_entities": 32701,
+  "clean_geo": 24982,
+  "hatch": 7545,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 32418,
+   "PDF_实体填充": 283
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-中段"
+ },
+ {
+  "num": 101,
+  "file": "37-SA36901S-T0121-101.dxf",
+  "size_mb": 25.2,
+  "entity_types": {
+   "LWPOLYLINE": 34776,
+   "HATCH": 10097,
+   "LINE": 8447,
+   "SPLINE": 459,
+   "CIRCLE": 385,
+   "SOLID": 138
+  },
+  "total_entities": 54302,
+  "clean_geo": 43608,
+  "hatch": 10097,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 53848,
+   "PDF_实体填充": 454
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 102,
+  "file": "37-SA36901S-T0121-102.dxf",
+  "size_mb": 15.5,
+  "entity_types": {
+   "LWPOLYLINE": 20424,
+   "HATCH": 7576,
+   "LINE": 4597,
+   "CIRCLE": 105,
+   "SOLID": 92,
+   "SPLINE": 76
+  },
+  "total_entities": 32870,
+  "clean_geo": 25126,
+  "hatch": 7576,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 32581,
+   "PDF_实体填充": 289
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 103,
+  "file": "37-SA36901S-T0121-103.dxf",
+  "size_mb": 23.3,
+  "entity_types": {
+   "LWPOLYLINE": 30985,
+   "HATCH": 9906,
+   "LINE": 8068,
+   "SPLINE": 474,
+   "CIRCLE": 355,
+   "SOLID": 136
+  },
+  "total_entities": 49924,
+  "clean_geo": 39408,
+  "hatch": 9906,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 49511,
+   "PDF_实体填充": 413
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 104,
+  "file": "37-SA36901S-T0121-104.dxf",
+  "size_mb": 18.3,
+  "entity_types": {
+   "LWPOLYLINE": 24922,
+   "HATCH": 7865,
+   "LINE": 5614,
+   "SPLINE": 205,
+   "CIRCLE": 151,
+   "SOLID": 92
+  },
+  "total_entities": 38849,
+  "clean_geo": 30687,
+  "hatch": 7865,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 38502,
+   "PDF_实体填充": 347
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 105,
+  "file": "37-SA36901S-T0121-105.dxf",
+  "size_mb": 24.9,
+  "entity_types": {
+   "LWPOLYLINE": 33311,
+   "HATCH": 10079,
+   "LINE": 8776,
+   "SPLINE": 527,
+   "CIRCLE": 419,
+   "SOLID": 136
+  },
+  "total_entities": 53248,
+  "clean_geo": 42506,
+  "hatch": 10079,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 52801,
+   "PDF_实体填充": 447
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 106,
+  "file": "37-SA36901S-T0121-106.dxf",
+  "size_mb": 20.0,
+  "entity_types": {
+   "LWPOLYLINE": 26718,
+   "HATCH": 8586,
+   "LINE": 6566,
+   "SPLINE": 644,
+   "CIRCLE": 225,
+   "SOLID": 102
+  },
+  "total_entities": 42841,
+  "clean_geo": 33509,
+  "hatch": 8586,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42491,
+   "PDF_实体填充": 350
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 107,
+  "file": "37-SA36901S-T0121-107.dxf",
+  "size_mb": 24.3,
+  "entity_types": {
+   "LWPOLYLINE": 32999,
+   "HATCH": 10214,
+   "LINE": 8555,
+   "SPLINE": 552,
+   "CIRCLE": 465,
+   "SOLID": 131
+  },
+  "total_entities": 52916,
+  "clean_geo": 42019,
+  "hatch": 10214,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 52441,
+   "PDF_实体填充": 475
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 108,
+  "file": "37-SA36901S-T0121-108.dxf",
+  "size_mb": 19.5,
+  "entity_types": {
+   "LWPOLYLINE": 26073,
+   "HATCH": 8264,
+   "LINE": 6818,
+   "SPLINE": 426,
+   "CIRCLE": 171,
+   "SOLID": 94
+  },
+  "total_entities": 41846,
+  "clean_geo": 33062,
+  "hatch": 8264,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 41523,
+   "PDF_实体填充": 323
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 109,
+  "file": "37-SA36901S-T0121-109.dxf",
+  "size_mb": 24.7,
+  "entity_types": {
+   "LWPOLYLINE": 33177,
+   "HATCH": 10238,
+   "LINE": 8693,
+   "SPLINE": 618,
+   "CIRCLE": 482,
+   "SOLID": 131
+  },
+  "total_entities": 53339,
+  "clean_geo": 42352,
+  "hatch": 10238,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 52861,
+   "PDF_实体填充": 478
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 110,
+  "file": "37-SA36901S-T0121-110.dxf",
+  "size_mb": 19.8,
+  "entity_types": {
+   "LWPOLYLINE": 26460,
+   "HATCH": 8345,
+   "LINE": 6922,
+   "SPLINE": 450,
+   "CIRCLE": 173,
+   "SOLID": 94
+  },
+  "total_entities": 42444,
+  "clean_geo": 33555,
+  "hatch": 8345,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42118,
+   "PDF_实体填充": 326
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 111,
+  "file": "37-SA36901S-T0121-111.dxf",
+  "size_mb": 24.7,
+  "entity_types": {
+   "LWPOLYLINE": 33207,
+   "HATCH": 10245,
+   "LINE": 8819,
+   "SPLINE": 626,
+   "CIRCLE": 487,
+   "SOLID": 133
+  },
+  "total_entities": 53517,
+  "clean_geo": 42513,
+  "hatch": 10245,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 53034,
+   "PDF_实体填充": 483
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 112,
+  "file": "37-SA36901S-T0121-112.dxf",
+  "size_mb": 20.0,
+  "entity_types": {
+   "LWPOLYLINE": 26718,
+   "HATCH": 8419,
+   "LINE": 6986,
+   "SPLINE": 426,
+   "CIRCLE": 173,
+   "SOLID": 94
+  },
+  "total_entities": 42816,
+  "clean_geo": 33877,
+  "hatch": 8419,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 42486,
+   "PDF_实体填充": 330
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 113,
+  "file": "37-SA36901S-T0121-113.dxf",
+  "size_mb": 23.8,
+  "entity_types": {
+   "LWPOLYLINE": 31615,
+   "HATCH": 10201,
+   "LINE": 8637,
+   "SPLINE": 637,
+   "CIRCLE": 469,
+   "SOLID": 133
+  },
+  "total_entities": 51692,
+  "clean_geo": 40721,
+  "hatch": 10201,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 51210,
+   "PDF_实体填充": 482
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 114,
+  "file": "37-SA36901S-T0121-114.dxf",
+  "size_mb": 21.4,
+  "entity_types": {
+   "LWPOLYLINE": 28999,
+   "HATCH": 8545,
+   "LINE": 7510,
+   "SPLINE": 609,
+   "CIRCLE": 230,
+   "SOLID": 94
+  },
+  "total_entities": 45987,
+  "clean_geo": 36739,
+  "hatch": 8545,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 45646,
+   "PDF_实体填充": 341
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 115,
+  "file": "37-SA36901S-T0121-115.dxf",
+  "size_mb": 24.7,
+  "entity_types": {
+   "LWPOLYLINE": 33101,
+   "HATCH": 10288,
+   "LINE": 8791,
+   "SPLINE": 623,
+   "CIRCLE": 508,
+   "SOLID": 129
+  },
+  "total_entities": 53440,
+  "clean_geo": 42400,
+  "hatch": 10288,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 52957,
+   "PDF_实体填充": 483
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 116,
+  "file": "37-SA36901S-T0121-116.dxf",
+  "size_mb": 20.5,
+  "entity_types": {
+   "LWPOLYLINE": 27905,
+   "HATCH": 8552,
+   "LINE": 7227,
+   "CIRCLE": 210,
+   "SPLINE": 132,
+   "SOLID": 96
+  },
+  "total_entities": 44122,
+  "clean_geo": 35342,
+  "hatch": 8552,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43765,
+   "PDF_实体填充": 357
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 117,
+  "file": "37-SA36901S-T0121-117.dxf",
+  "size_mb": 25.2,
+  "entity_types": {
+   "LWPOLYLINE": 33899,
+   "HATCH": 10323,
+   "LINE": 9005,
+   "SPLINE": 616,
+   "CIRCLE": 529,
+   "SOLID": 131
+  },
+  "total_entities": 54503,
+  "clean_geo": 43433,
+  "hatch": 10323,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 54014,
+   "PDF_实体填充": 489
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 118,
+  "file": "37-SA36901S-T0121-118.dxf",
+  "size_mb": 20.3,
+  "entity_types": {
+   "LWPOLYLINE": 27455,
+   "HATCH": 8592,
+   "LINE": 7148,
+   "CIRCLE": 201,
+   "SPLINE": 115,
+   "SOLID": 94
+  },
+  "total_entities": 43605,
+  "clean_geo": 34804,
+  "hatch": 8592,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 43254,
+   "PDF_实体填充": 351
+  },
+  "coord_range": "2,2 to 596,843",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 119,
+  "file": "37-SA36901S-T0121-119.dxf",
+  "size_mb": 23.6,
+  "entity_types": {
+   "LWPOLYLINE": 31410,
+   "HATCH": 10022,
+   "LINE": 7908,
+   "SPLINE": 454,
+   "CIRCLE": 373,
+   "SOLID": 126
+  },
+  "total_entities": 50293,
+  "clean_geo": 39691,
+  "hatch": 10022,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 49840,
+   "PDF_实体填充": 453
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 120,
+  "file": "37-SA36901S-T0121-120.dxf",
+  "size_mb": 18.6,
+  "entity_types": {
+   "LWPOLYLINE": 24983,
+   "HATCH": 7929,
+   "LINE": 6033,
+   "SPLINE": 274,
+   "CIRCLE": 168,
+   "SOLID": 102
+  },
+  "total_entities": 39489,
+  "clean_geo": 31184,
+  "hatch": 7929,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 39110,
+   "PDF_实体填充": 379
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 121,
+  "file": "37-SA36901S-T0121-121.dxf",
+  "size_mb": 23.6,
+  "entity_types": {
+   "LWPOLYLINE": 31567,
+   "HATCH": 10034,
+   "LINE": 7997,
+   "SPLINE": 481,
+   "CIRCLE": 380,
+   "SOLID": 126
+  },
+  "total_entities": 50585,
+  "clean_geo": 39944,
+  "hatch": 10034,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 50129,
+   "PDF_实体填充": 456
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 122,
+  "file": "37-SA36901S-T0121-122.dxf",
+  "size_mb": 18.7,
+  "entity_types": {
+   "LWPOLYLINE": 25045,
+   "HATCH": 7955,
+   "LINE": 6080,
+   "SPLINE": 279,
+   "CIRCLE": 168,
+   "SOLID": 102
+  },
+  "total_entities": 39629,
+  "clean_geo": 31293,
+  "hatch": 7955,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 39248,
+   "PDF_实体填充": 381
+  },
+  "coord_range": "2,2 to 843,596",
+  "category": "身部段-下段"
+ },
+ {
+  "num": 123,
+  "file": "37-SA36901S-T0121-123.dxf",
+  "size_mb": 24.6,
+  "entity_types": {
+   "LWPOLYLINE": 32930,
+   "HATCH": 10046,
+   "LINE": 8712,
+   "SPLINE": 544,
+   "CIRCLE": 392,
+   "SOLID": 128
+  },
+  "total_entities": 52752,
+  "clean_geo": 42034,
+  "hatch": 10046,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 52344,
+   "PDF_实体填充": 408
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 124,
+  "file": "37-SA36901S-T0121-124.dxf",
+  "size_mb": 18.1,
+  "entity_types": {
+   "LWPOLYLINE": 24065,
+   "HATCH": 8037,
+   "LINE": 5757,
+   "SPLINE": 274,
+   "CIRCLE": 179,
+   "SOLID": 86
+  },
+  "total_entities": 38398,
+  "clean_geo": 30001,
+  "hatch": 8037,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 37967,
+   "PDF_实体填充": 431
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 125,
+  "file": "37-SA36901S-T0121-125.dxf",
+  "size_mb": 26.4,
+  "entity_types": {
+   "LWPOLYLINE": 35341,
+   "HATCH": 10304,
+   "LINE": 9783,
+   "SPLINE": 630,
+   "CIRCLE": 491,
+   "SOLID": 130
+  },
+  "total_entities": 56679,
+  "clean_geo": 45615,
+  "hatch": 10304,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 56164,
+   "PDF_实体填充": 515
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ },
+ {
+  "num": 126,
+  "file": "37-SA36901S-T0121-126.dxf",
+  "size_mb": 19.6,
+  "entity_types": {
+   "LWPOLYLINE": 25700,
+   "HATCH": 8565,
+   "LINE": 6821,
+   "SPLINE": 671,
+   "CIRCLE": 220,
+   "SOLID": 94
+  },
+  "total_entities": 42071,
+  "clean_geo": 32741,
+  "hatch": 8565,
+  "text_count": 0,
+  "text_samples": [],
+  "layers": {
+   "PDF_几何图形": 41691,
+   "PDF_实体填充": 380
+  },
+  "coord_range": "2,2 to 596,948",
+  "category": "身部段-较大幅面"
+ }
+]
